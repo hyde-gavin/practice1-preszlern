@@ -1,2 +1,2 @@
-# practive1-preszlern
+# practice1-preszlern
 Tips to working with git and github
